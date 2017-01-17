@@ -12,8 +12,8 @@ Controlling a [P3LX](https://github.com/heronarts/P3LX) Processing sketch with T
 
 You can play with the rendered ellipse with the following controls.
 
-- fader1 controls saturation of ellipse
-- fader2 controls size of ellipse
-- fader3 controls X-position of ellipse
-- fader4 controls Y-position of ellipse
-- fader5 controls hue of ellipse
+- `fader1` controls saturation of ellipse
+- `fader2` controls size of ellipse
+- `fader3` controls X-position of ellipse
+- `fader4` controls Y-position of ellipse
+- `fader5` controls hue of ellipse
